@@ -1,0 +1,85 @@
+# Tohar brands — Generative Engine Optimization Map
+
+> An online fashion store specializing in Essentials Fear of God menswear — a premium streetwear brand known for its minimalist aesthetic, neutral tones, oversized silhouettes, and luxury basics. The brand blends high-end fashion with everyday comfort, targeting style-conscious men who appreciate understated, elevated streetwear with a modern urban edge.
+
+---
+
+## Pages
+
+### בית
+https://tohar-brands-d90458cd.zappy5.app
+חנות אופנה אונליין מובילה לגבר, המציעה את Essentials Fear of God. פריטי רחוב מינימליסטיים בגוונים ניטרליים, גזרות אוברסייז ונוחות בלתי מתפשרת. שדרגו את הלוק עוד היום.
+
+### אודות
+https://tohar-brands-d90458cd.zappy5.app/about
+גלו את הסיפור של Tohar brands, בית לאופנת Essentials Fear of God. אנחנו מחברים בין עיצוב על-זמני לנוחות יומיומית, ומציעים חוויית קנייה ייחודית לחובבי הסטייל הנקי. הצטרפו למסע.
+
+### לוקבוק
+https://tohar-brands-d90458cd.zappy5.app/lookbook
+דפדפו בלוקבוק הבלעדי של Tohar brands וגלו כיצד לשלב פריטי Essentials ללוק אורבני מושלם. תמונות מעוררות השראה, שילובים מפתיעים ורעיונות סטיילינג שיקפיצו את ההופעה שלכם. שאבו השראה.
+
+### צור קשר
+https://tohar-brands-d90458cd.zappy5.app/contact
+פנו לצוות המומחים של Tohar brands לכל שאלה על Essentials Fear of God. בין אם אתם מתלבטים במידה, רוצים המלצה אישית או זקוקים לעזרה בהזמנה, אנחנו כאן כדי להבטיח חוויית קנייה מושלמת. כתבו לנו עכשיו.
+
+### Products
+https://tohar-brands-d90458cd.zappy5.app/products
+המוצרים שלנו - Tohar brands
+
+### Product Detail
+https://tohar-brands-d90458cd.zappy5.app/product/:slug
+פרטי המוצר - Tohar brands
+
+### Category
+https://tohar-brands-d90458cd.zappy5.app/category/:slug
+מוצרים - Tohar brands
+
+### תודה רבה - ההודעה התקבלה | Tohar Brands
+https://tohar-brands-d90458cd.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה התקבלה בהצלחה אצל צוות Tohar Brands, חנות אופנה אינטרנטית מובילה, ונחזור אלייך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://tohar-brands-d90458cd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tohar-brands-d90458cd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tohar-brands-d90458cd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Tohar brands
+An online fashion store specializing in Essentials Fear of God menswear — a premium streetwear brand known for its minimalist aesthetic, neutral tones, oversized silhouettes, and luxury basics. The brand blends high-end fashion with everyday comfort, targeting style-conscious men who appreciate understated, elevated streetwear with a modern urban edge.
+
+## Target Audience
+- גברים
+- גברים ממוקדי אופנה
+- אנשי מקצוע צעירים עירוניים
+- משפיענים קובעי טרנדים
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://tohar-brands-d90458cd.zappy5.app/sitemap.xml
+- Robots: https://tohar-brands-d90458cd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://tohar-brands-d90458cd.zappy5.app/llms-full.txt
+- Products (JSON): https://tohar-brands-d90458cd.zappy5.app/products.json
+- Products (Google Merchant RSS): https://tohar-brands-d90458cd.zappy5.app/product-feed.xml
